@@ -1,0 +1,440 @@
+{
+    "categories": {
+        "Protocols": {
+            "subcategories": {
+                "General": [
+                    {
+                        "filePath": "assets/documents/533-01b_Santa_Barbara_County_Trauma_Patient_Guidelines.pdf",
+                        "pdfName": "533-01b Santa Barbara County Trauma Patient Guidelines",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-02_Airway_Management.pdf",
+                        "pdfName": "533-02 Airway Management",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-03_Pain_Control.pdf",
+                        "pdfName": "533-03 Pain Control",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-04_Vascular_Access.pdf",
+                        "pdfName": "533-04 Vascular Access",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "Medical Emergencies": [
+                    {
+                        "filePath": "assets/documents/533-05_Abdominal_Flank_Pain.pdf",
+                        "pdfName": "533-05 Abdominal Flank Pain",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-06_Altered_Neurological_Function.pdf",
+                        "pdfName": "533-06 Altered Neurological Function",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-07_Anaphylaxis_Allergic_Reaction.pdf",
+                        "pdfName": "533-07 Anaphylaxis Allergic Reaction",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-08_Behavioral_Emergencies.pdf",
+                        "pdfName": "533-08 Behavioral Emergencies",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-18_Shortness_of_Breath.pdf",
+                        "pdfName": "533-18 Shortness of Breath",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-19_Seizures.pdf",
+                        "pdfName": "533-19 Seizures",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-20_Shock_-_Hypotension.pdf",
+                        "pdfName": "533-20 Shock - Hypotension",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-21_Stroke.pdf",
+                        "pdfName": "533-21 Stroke",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "Cardiac Emergencies": [
+                    {
+                        "filePath": "assets/documents/533-09a_Cardiac_Arrest_Management_(CAM).pdf",
+                        "pdfName": "533-09a Cardiac Arrest Management (CAM)",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-09b_Cardiac_Arrest_(VF-VT).pdf",
+                        "pdfName": "533-09b Cardiac Arrest (VF-VT)",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-09c_Cardiac_Arrest_(Asystole-PEA).pdf",
+                        "pdfName": "533-09c Cardiac Arrest (Asystole-PEA)",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-10_Push-Dose_Epinephrine.pdf",
+                        "pdfName": "533-10 Push Dose Epinephrine",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-11_Chest_Pain_-_Acute_Coronary_Syndrome.pdf",
+                        "pdfName": "533-11 Chest Pain - Acute Coronary Syndrome",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-12_Symptomatic_Bradycardia.pdf",
+                        "pdfName": "533-12 Symptomatic Bradycardia",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-13_Supraventricular_Tachycardia.pdf",
+                        "pdfName": "533-13 Supraventricular Tachycardia",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-14_Wide-Complex_Tachycardia_Not_in_Arrest.pdf",
+                        "pdfName": "533-14 Wide Complex Tachycardia Not in Arrest",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "Other Medical Emergencies": [
+                    {
+                        "filePath": "assets/documents/533-15_Nausea_-_Vomiting.pdf",
+                        "pdfName": "533-15 Nausea - Vomiting",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-16_Poisoning_-_Overdose.pdf",
+                        "pdfName": "533-16 Poisoning - Overdose",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-17_Nerve_Agent_Poisoning.pdf",
+                        "pdfName": "533-17 Nerve Agent Poisoning",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "Traumatic Injury and Shock Emergencies": [
+                    {
+                        "filePath": "assets/documents/533-22_Traumatic_Injuries.pdf",
+                        "pdfName": "533-22 Traumatic Injuries",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-23_Tranexamic_Acid.pdf",
+                        "pdfName": "533-23 Tranexamic Acid",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-24_Burns.pdf",
+                        "pdfName": "533-24 Burns",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-25_Potential_Crush_Injury.pdf",
+                        "pdfName": "533-25 Potential Crush Injury",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-26_Traumatic_Arrest.pdf",
+                        "pdfName": "533-26 Traumatic Arrest",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "Environmental Emergencies": [
+                    {
+                        "filePath": "assets/documents/533-27_Bites_and_Stings.pdf",
+                        "pdfName": "533-27 Bites and Stings",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-28_Heat_Emergencies.pdf",
+                        "pdfName": "533-28 Heat Emergencies",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-29_Hypothermia.pdf",
+                        "pdfName": "533-29 Hypothermia",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "OB/GYN Emergencies": [
+                    {
+                        "filePath": "assets/documents/533-30_Childbirth.pdf",
+                        "pdfName": "533-30 Childbirth",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-31_Neonatal_Resuscitation.pdf",
+                        "pdfName": "533-31 Neonatal Resuscitation",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-32_OB-Gyn.pdf",
+                        "pdfName": "533-32 OB-Gyn",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "Appendices": [
+                    {
+                        "filePath": "assets/documents/533-Appendix_A_Pediatric_Vital_Signs_Normal_Ranges.pdf",
+                        "pdfName": "533-Appendix A Pediatric Vital Signs Normal Ranges",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-Appendix_B_Glasgow_Coma_Scale_and_Cincinnati_Stroke.pdf",
+                        "pdfName": "533-Appendix B Glasgow Coma Scale and Cincinnati Stroke",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-Appendix_C_Chempack_Cache_Nerve_Agent.pdf",
+                        "pdfName": "533-Appendix C Chempack Cache Nerve Agent",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533-Appendix_D_Approved_Abbreviation.pdf",
+                        "pdfName": "533-Appendix D Approved Abbreviation",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ]
+            }
+        },
+        "Policies": {
+            "subcategories": {
+                "Medical Control": [
+                    {
+                        "filePath": "assets/documents/500_Medical_Control_at_the_Scene_-_General_Statement.pdf",
+                        "pdfName": "500 Medical Control at the Scene - General Statement",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/501_Medical_Control_Emergency_Medical_Services_Medical_Director.pdf",
+                        "pdfName": "501 Medical Control: Emergency Medical Services Medical Director",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/502_Medical_Control_Base_Hospital_Medical_Director.pdf",
+                        "pdfName": "502 Medical Control\u02d0 Base Hospital Medical Director",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ],
+                "Field Policies and Treatment Protocols": [
+                    {
+                        "filePath": "assets/documents/505_Patient_Contact.pdf",
+                        "pdfName": "505 Patient Contact",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/506_Communicable_Disease_Exposure_Protocol_for_Emergency_Responder.pdf",
+                        "pdfName": "506 Communicable Disease Exposure Protocol for Emergency Responder",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/507_Refusal_of_Prehospital_Services.pdf",
+                        "pdfName": "507 Refusal of Prehospital Services",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/508_Do_Not_Resuscitate_(DNR).pdf",
+                        "pdfName": "508 Do Not Resuscitate (DNR)",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/508_Do_Not_Resuscitate-_Appendix_A-_Form_Order.pdf",
+                        "pdfName": "508 Do Not Resuscitate - Appendix A - Form Order",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/509_Determination_of_Death.pdf",
+                        "pdfName": "509 Determination of Death",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/510_Trauma_Triage_Criteria_and_Patient_Destination.pdf",
+                        "pdfName": "510 Trauma Triage Criteria and Patient Destination",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/511_EMS_Transport_Zones.pdf",
+                        "pdfName": "511 EMS Transport Zones",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/531_Transfer_of_Patient_Care_(ALS).pdf",
+                        "pdfName": "531 Transfer of Patient Care (ALS)",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/532_Endotracheal_Intubation.pdf",
+                        "pdfName": "532 Endotracheal Intubation",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/533_B_PSFA_Treatment_Protocol.pdf",
+                        "pdfName": "533 B PSFA Treatment Protocol",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/534_Pre-Hospital_Mandatory_Training.pdf",
+                        "pdfName": "534 Pre-Hospital Mandatory Training",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/535_Restraints_and_Violent_Patients.pdf",
+                        "pdfName": "535 Restraints and Violent Patients",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/536_Needle_Thoracostomy.pdf",
+                        "pdfName": "536 Needle Thoracostomy",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/537_Automatic_Transport_Ventilators.pdf",
+                        "pdfName": "537 Automatic Transport Ventilators",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/538_A_Attachment_-_Humeral_IO_Insertion.pdf",
+                        "pdfName": "538 A Attachment - Humeral IO Insertion",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/538_B_Attachment_-_Tibial_IO_Insertion.pdf",
+                        "pdfName": "538 B Attachment - Tibial IO Insertion",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/538_C_Attachment_-_Femoral_IO_Insertion_(Infant_and_Child_Only).pdf",
+                        "pdfName": "538 C Attachment - Femoral IO Insertion (Infant and Child Only)",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/538_Intraosseous_Vascular_Access.pdf",
+                        "pdfName": "538 Intraosseous Vascular Access",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/539_12-Lead_ECG_Procedure.pdf",
+                        "pdfName": "539 12-Lead ECG Procedure",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/540_Spinal_Motion_Restriction.pdf",
+                        "pdfName": "540 Spinal Motion Restriction",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/541_Transcutaneous_Pacing.pdf",
+                        "pdfName": "541 Transcutaneous Pacing",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/542_Brief_Resolved_Unexplained_Event_(BRUE).pdf",
+                        "pdfName": "542 Brief Resolved Unexplained Event (BRUE)",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/544_Tourniquet.pdf",
+                        "pdfName": "544 Tourniquet",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/546_Supraglottic_Airway_Device.pdf",
+                        "pdfName": "546 Supraglottic Airway Device",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/550_Stroke_System_Triage_and_Destination.pdf",
+                        "pdfName": "550 Stroke System Triage and Destination",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    },
+                    {
+                        "filePath": "assets/documents/590_Paramedic_Unified_Optional_Scope_of_Practice_for_California_Within_Qualified_Transport_Programs.pdf",
+                        "pdfName": "590 Paramedic Unified Optional Scope of Practice for California Within Qualified Transport Programs",
+                        "version": "2024-05-01",
+                        "fileDriveID": null
+                    }
+                ]
+            }
+        }
+    }
+}
