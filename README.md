@@ -79,11 +79,6 @@ This project is a personal initiative intended to help Santa Barbara County EMS 
 
 **This is NOT an official application of the Santa Barbara County EMS Agency.** The information provided in this application is for reference purposes only. Always follow your agency's official protocols and medical direction. In case of any discrepancy between the information in this app and official protocols, the official protocols take precedence.
 
-## Contact
-
-For bug reports, feature requests, or other inquiries, please contact the developer at:
-- Email: chiran.aru@icloud.com
-
 ## Acknowledgments
 
 - Santa Barbara County Emergency Medical Services Agency for their publicly available reference materials and protocols
