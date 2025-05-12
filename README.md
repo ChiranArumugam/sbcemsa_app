@@ -4,6 +4,17 @@
 
 A comprehensive mobile application designed for Emergency Medical Services (EMS) providers in Santa Barbara County, California. This app serves as a digital resource hub for protocols, medications, hospital information, and other essential tools for EMS professionals.
 
+## Screenshots
+
+<p align="center">
+  <img src="sbcemsa_screenshots/home.png" width="200"/>
+  <img src="sbcemsa_screenshots/contact.png" width="200"/>
+  <img src="sbcemsa_screenshots/pdfview.png" width="200"/>
+  <img src="sbcemsa_screenshots/search.png" width="200"/>
+  <img src="sbcemsa_screenshots/calculator.png" width="200"/>
+  <img src="sbcemsa_screenshots/map.png" width="200"/>
+</p>
+
 ## Features
 
 - **PDF Library**: Access to protocols, guidelines, and reference materials
